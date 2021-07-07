@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href="https://rebrand.ly/githubprof"><img title="YouTube" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Lody-Tambak"><img title="YouTube" src="https://img.shields.io/badge/Kang-Kebun__-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://youtube.com/channel/UCIW_JU0ce2JgTfWYdPy4-og"><img title="YouTube" src="https://img.shields.io/badge/YouTube-KangKebun__-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
