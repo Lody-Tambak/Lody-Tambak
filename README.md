@@ -11,6 +11,10 @@
 <a href="https://youtube.com/channel/UCIW_JU0ce2JgTfWYdPy4-og"><img title="YouTube" src="https://img.shields.io/badge/YouTube-KangKebun__-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
+### KNOW MORE ABOUT ME>>>>
+<p align="center"><a href="https://github.com/Lody-Tambak"><img title="KangKebun_" src="https://github-readme-stats.vercel.app/api?username=noob-hackers&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+</p>
+
 <p align="center">
 <a href="https://rebrand.ly/telegramchnl"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 <a href="https://wa.me/6285875973250"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
