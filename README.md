@@ -20,5 +20,5 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Lody-Tambak"><img title="Kang-Kebun_" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noob-Hackers&layout=compact"></a>
+<a href="https://github.com/Lody-Tambak"><img title="Kang-Kebun_" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lody-Tambak&layout=compact"></a>
 </p>
