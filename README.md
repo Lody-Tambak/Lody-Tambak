@@ -1,5 +1,5 @@
 ## Hey, Friends 😎
-<p align="center"><img src="https://user-images.githubusercontent.com/79711216/124868379-df337e80-dfe9-11eb-9c5f-94b74901b0b0.gif" alt="Bt">
+<p align="center"><img src="https://user-images.githubusercontent.com/79711216/124872731-d34abb00-dfef-11eb-8843-384199bb630f.gif" alt="Bt">
 
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
 
