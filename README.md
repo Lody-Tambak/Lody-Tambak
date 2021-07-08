@@ -22,3 +22,5 @@
 <p align="center">
 <a href="https://github.com/Lody-Tambak"><img title="Kang-Kebun_" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lody-Tambak&layout=compact"></a>
 </p>
+
+<a href="https://github.com/Lody-Tambak/bot-wa"><img title="bot-wa" src="https://github-readme-stats.vercel.app/api/pin/?username=Lody-Tambak&repo=bot-wa&theme=radical"></a>
